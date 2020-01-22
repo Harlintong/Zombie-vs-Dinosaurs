@@ -12,6 +12,8 @@ namespace Zombie_vs_Dinosaurs
 
         public int Resistance;
 
+        public string[] Name;
+
 
         void Chess()
         {

@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Zombie_vs_Dinosaurs
 {
-    class Dinosaurs : Creature
+    class Dinosaur : Creature
     {
-        Dictionary<string, Dinosaurs> DinosaurName = new Dictionary<string, Dinosaurs>();
+        Dictionary<string, Dinosaur> Dinosaurs = new Dictionary<string, Dinosaur>();
+
     }
 }

@@ -6,6 +6,6 @@ namespace Zombie_vs_Dinosaurs
 {
     class Zombie : Creature
     {
-        Dictionary<string, Zombie> ZombieName = new Dictionary<string, Zombie>();
+        Dictionary<string, Zombie> Zombies = new Dictionary<string, Zombie>();
     }
 }
